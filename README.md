@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/PyTorch-yellow?style=flat&logo=PyTorh&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/PyTorch-yellow?style=flat&logo=PyTorh&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/MySQL-critical?style=flat&logo=MySQL&logoColor=4479A1"/>
 
 
 
