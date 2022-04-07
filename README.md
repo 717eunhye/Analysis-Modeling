@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/python-green?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PyTorch-yellow?style=flat&logo=PyTorh&logoColor=EE4C2C"/>
 
 
 
